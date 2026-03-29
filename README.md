@@ -49,26 +49,26 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chacha-A-Chacha&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rich_Richy&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chacha-A-Chacha&hide_border=true&layout=compact&theme=tokyonight" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Chacha-A-Chacha&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Rich_Richy&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chacha-A-Chacha&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rich_Richy&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chacha-A-Chacha&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rich_Richy&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 </div>
 
 <br/>
@@ -78,7 +78,7 @@
 <div align="center">
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ca_hac)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chacha-chacha-3155a7145/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Rich_Richy-3155a7145/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chachaachacha)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18173637/chacha-chacha)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chachaalex.c)
